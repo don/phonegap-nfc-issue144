@@ -4,4 +4,5 @@ Used to troubleshoot [phonegap-nfc issue #144](https://github.com/chariotsolutio
 
     cordova platform add android
     cordova plugin add com.chariotsolutions.nfc.plugin
+    cordova plugin add cordova-plugin-whitelist
     cordova run
